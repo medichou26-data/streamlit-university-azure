@@ -1,5 +1,36 @@
-streamlit
+# Core
+streamlit==1.31.0
 pandas
 numpy
+
+# Visualisation
 plotly
+plotly-express
+
+# Fake data
 faker
+
+# Date / time
+python-dateutil
+
+# Utils
+hashlib
+uuid
+base64
+
+# For handling warnings
+warnings
+
+# Optional but common
+scipy
+matplotlib
+
+# Networking / requests (just in case)
+requests
+
+# For Excel / CSV export
+openpyxl
+xlrd
+
+# Security / hashing
+pycryptodome
